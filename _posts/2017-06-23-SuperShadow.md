@@ -4,10 +4,8 @@ title: SuperShadow为你的View添加炫彩阴影
 date: 2017-06-23
 categories: blog
 tags: [android,shadow]
-
-
-
-# SuperShadow为你的View添加炫彩阴影
+description: SuperShadow为你的View添加炫彩阴影
+---
 
 
 ### [项目链接 求星](https://github.com/MagicMashRoom/SuperShadow)
