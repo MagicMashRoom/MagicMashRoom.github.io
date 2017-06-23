@@ -1,15 +1,15 @@
 # Site settings
-title: 读立写生
+title: 大道形愚
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "骆大峰|行大道·形而愚"  
 baseurl: ""
-url: "http://www.cnfeat.com"  
+url: "https://magicmashroom.github.io/"  
 
 # About/contact
 owner: 
-  name: " CNFeat"
-  email: CnFeat@gmail.com
+  name: " MagicMashRoom"
+  email: i976677856@163.com 
   bio: "每天写1000字改变自己"
 
 # Data
