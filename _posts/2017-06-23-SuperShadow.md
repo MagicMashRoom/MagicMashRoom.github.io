@@ -1,11 +1,15 @@
 ---
 layout: post
-title: 这份黑客马拉松活动贴士，适用所有学习者参加所有活动
+title: SuperShadow为你的View添加炫彩阴影
 date: 2017-06-23
 categories: blog
 tags: [android,shadow]
 
-# SuperShadow [项目链接 求星](https://github.com/MagicMashRoom/SuperShadow)
+# SuperShadow为你的View添加炫彩阴影
+
+
+###[项目链接 求星](https://github.com/MagicMashRoom/SuperShadow)
+
 
    SuperShadow 是一个专门为 View 添加阴影效果的库。 SuperShadow 支持自定义阴影实现方式、阴影颜色、阴影大小，圆角大小、阴影附加方向。
    
