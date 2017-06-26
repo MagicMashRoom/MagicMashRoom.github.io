@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Android ConstraintLayout详解
-date: 2017-06-23
+date: 2017-06-26
 categories: blog
-tags: [android,Android ConstraintLayout详解]
+tags: [android,ConstraintLayout]
 description: Android ConstraintLayout详解
 ---
 
