@@ -188,8 +188,9 @@ allprojects {
 Step 2. Add the dependency
 
 ```groovy
+
 	dependencies {
-	        compile 'com.github.MagicMashRoom:SuperCalendar:v1.1.0'
+	        compile 'com.github.MagicMashRoom:SuperCalendar:v1.2.0'
 	}
 
 ```
