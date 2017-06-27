@@ -19,7 +19,7 @@ description: 可能是第十好的Android 开源 日历 Calendar 仿小米(重�
 * 支持自定义的日期显示效果(体验新效果请compile v1.2.0)
 * 图片有点大，点击图片查看效果
 
-![new](http://upload-images.jianshu.io/upload_images/3874191-88dc2d783a833c8d.gif =360x640)
+![new](http://upload-images.jianshu.io/upload_images/3874191-88dc2d783a833c8d.gif?imageMogr2/auto-orient/strip)
 
 ####      新效果中更改了选中效果
 * 使用方法 新建一个 CustomDayView extends DayView
