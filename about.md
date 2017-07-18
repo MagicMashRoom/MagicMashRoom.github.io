@@ -1,9 +1,12 @@
 ---
 layout: page
-title: "Tags"
-description: "哈哈，你找到了我的文章基因库"  
-### 坚信
+title: "About"
+description: "关于我"  
+
+header-img: "img/Red-Brown.jpg"  
 ---
+
+## 坚信
 
 * 学习的态度：学苟知本，六经皆我注脚；
 * 做人的原则：沉着、勇猛，有辨别，不自私；
