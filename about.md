@@ -14,7 +14,7 @@
 
 ### 联系
 
-- [GitHub@MagicMashRoom](https://magicmashroom.github.io/)
+- [GitHub@MagicMashRoom](https://github.com/)
 
 
 ### ChangeLog
